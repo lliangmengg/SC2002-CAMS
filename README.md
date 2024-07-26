@@ -1,4 +1,4 @@
-# SC2002-CAMS
+# SC2002- OODP Project
 # Camp Application and Management System (CAMs)
 
 ## Objective
@@ -17,7 +17,7 @@ CAMs is an application for staff and students to manage, view and register for c
 The application is to be developed as a Command Line Interface (CLI) application (non-Graphical User Interface). 
 No database application (eg MySQL, MS Access, etc) is to be used.  No JSON or XML is to be used. 
 
-###Requirements and Specifications:
+### Requirements and Specifications:
 ### User:
 - All users will need to login to this hub using their user account.
   - User ID will be the NTU network user ID, that is the part before @ in email address.
