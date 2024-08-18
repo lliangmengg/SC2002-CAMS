@@ -1,5 +1,6 @@
 # SC2002- OODP Project
 # Camp Application and Management System (CAMs)
+This repository is a copy of the NTU SC2002 Object Oriented Programming Group Project.
 
 ## Objective
 The main objective of this assignment is:
